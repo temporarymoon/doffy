@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/doffy](https://github.com/prescientmoon/doffy) 🚧
 # Doffy
 
 Purescript based canvas rendering framework.
